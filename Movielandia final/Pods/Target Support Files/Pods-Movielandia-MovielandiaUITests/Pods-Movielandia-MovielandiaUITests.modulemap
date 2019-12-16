@@ -1,0 +1,6 @@
+framework module Pods_Movielandia_MovielandiaUITests {
+  umbrella header "Pods-Movielandia-MovielandiaUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

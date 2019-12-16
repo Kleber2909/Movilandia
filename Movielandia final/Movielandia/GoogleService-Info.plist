@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>919766957027-sigte4ekfmlrvcrd6g73sijidj2v0oq9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.919766957027-sigte4ekfmlrvcrd6g73sijidj2v0oq9</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>919766957027-755kig2blle4r7dq7j7fh6tafrqk8g8o.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBLicOoOU_vNBGaCWu2B7y6jB9i-QEFR7M</string>
+	<key>GCM_SENDER_ID</key>
+	<string>919766957027</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.fa7.filmes</string>
+	<key>PROJECT_ID</key>
+	<string>popular-movies-417e4</string>
+	<key>STORAGE_BUCKET</key>
+	<string>popular-movies-417e4.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:919766957027:ios:aa1636c4b09d5391ddfed6</string>
+	<key>DATABASE_URL</key>
+	<string>https://popular-movies-417e4.firebaseio.com</string>
+</dict>
+</plist>
